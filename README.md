@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/praveen-sharma-51474222">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/praveenvevo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="others" align="center">
 <img src="https://komarev.com/ghpvc/?username=praveen868686&style=flat-square&color=blue" alt=""/>
@@ -33,6 +30,7 @@ I am a Software Professional <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :zap: In my free time, I love to go outdoors for run.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-sharma-51474222)
+[![Linkedin Badge](https://shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=blue)](https://mail.google.com/)
 
 <br> 
 <br> 
