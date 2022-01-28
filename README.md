@@ -20,7 +20,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<br> 
+<br> 
 ---
 
 ### :technologist: About Me :
@@ -33,7 +34,8 @@ I am a Software Professional <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-sharma-51474222)
 
-
+<br> 
+<br> 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserver"  alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
@@ -49,3 +51,10 @@ I am a Software Professional <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<br> 
+<br> 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=praveen868686&theme=dark&background=000000)](https://git.io/streak-stats)
+<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen868686&layout=compact&theme=vision-friendly-dark)]
